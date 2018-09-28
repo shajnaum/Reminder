@@ -1,0 +1,17 @@
+E:\Samples\Reminder\Reminder\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+E:\Samples\Reminder\Reminder\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+E:\Samples\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+E:\Samples\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+E:\Samples\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+E:\Samples\Reminder\Reminder\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+E:\Samples\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+E:\Samples\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+E:\Samples\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\dell\Documents\Reminder\Reminder\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\Users\dell\Documents\Reminder\Reminder\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\dell\Documents\Reminder\Reminder\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\dell\Documents\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\Users\dell\Documents\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\Users\dell\Documents\Reminder\Reminder\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
